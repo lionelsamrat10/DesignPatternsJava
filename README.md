@@ -1,5 +1,6 @@
 # DesignPatternsJava
 Design Pattern Hands On
+By Samrat Mitra
 
 
 #Day1:
