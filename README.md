@@ -22,3 +22,7 @@ By Samrat Mitra
 # Day2:
   #Session-01
     Part-01: BuilderDesignPattern Hands On
+    
+# Day2:
+  #Session-01
+    Part-01: AdapterDesignPattern Hands On
