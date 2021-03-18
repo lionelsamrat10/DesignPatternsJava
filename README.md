@@ -18,3 +18,7 @@ By Samrat Mitra
 # Day1:
   #Session-02:
     Part-02: AbstractFactory Desing Pattern Demo Hands On
+
+# Day2:
+  #Session-01
+    Part-01: BuilderDesignPattern Hands On
