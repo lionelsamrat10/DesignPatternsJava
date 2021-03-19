@@ -38,3 +38,6 @@ By Samrat Mitra
  # Day3:
   # <h2>Session-01:</h2>
     Part-01: Mediator Design Pattern Hands On
+ # Day3:
+  # <h2>Session-02:</h2>
+    Part-01: Observer Design Pattern Hands On
