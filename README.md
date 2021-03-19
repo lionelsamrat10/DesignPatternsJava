@@ -30,3 +30,7 @@ By Samrat Mitra
  # Day2:
   # <h2>Session-02:</h2>
     Part-01: FacadeDesignPattern Hands On
+
+# Day2:
+  # <h2>Session-02:</h2>
+    Part-02: ChainOfResponsibility Hands On
