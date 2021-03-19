@@ -34,3 +34,7 @@ By Samrat Mitra
 # Day2:
   # <h2>Session-02:</h2>
     Part-02: ChainOfResponsibility Hands On
+    
+ # Day3:
+  # <h2>Session-01:</h2>
+    Part-01: Mediator Design Pattern Hands On
