@@ -25,7 +25,7 @@ By Samrat Mitra
     
 # Day2:
   # <h2>Session-01:</h2>
-    Part-01: AdapterDesignPattern Hands On
+    Part-02: AdapterDesignPattern Hands On
  
  # Day2:
   # <h2>Session-02:</h2>
